@@ -35,7 +35,7 @@ function atualizarPreviews(indiceAtual){
         const slide = slides[indicePreview];
 
         preview.dataset.slide = indicePreview;
-        preview.querySelector('img').src = encodeURI('IMAGE/Novas fotos/' + slide.arquivo);
+        preview.querySelector('img').src = encodeURI('images/Novas fotos/' + slide.arquivo);
         preview.querySelector('img').alt = slide.label;
         preview.querySelector('p').textContent = slide.label;
     });
