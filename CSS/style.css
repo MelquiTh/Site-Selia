@@ -84,7 +84,7 @@ header .botão-wpp-menu button:hover, .Hero .txt-hero button:hover, .hoteis butt
 /* Estilo do Hero */
 section.Hero{
     height: 100vh;
-    background-image: url(/IMAGE/Eldorado_piscinas.jpeg);
+    background-image: url("../IMAGE/Eldorado_piscinas.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -232,23 +232,23 @@ section.slider{
 }
 
 .slider .slide-0{
-    background-image: url("/IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.32.47.jpeg");
+    background-image: url("../IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.32.47.jpeg");
 }
 
 .slider .slide-1{
-    background-image: url("/IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.46.jpeg");
+    background-image: url("../IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.46.jpeg");
 }
 
 .slider .slide-2{
-    background-image: url("/IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.47.jpeg");
+    background-image: url("../IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.47.jpeg");
 }
 
 .slider .slide-3{
-    background-image: url("/IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.48 (1).jpeg");
+    background-image: url("../IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.48 (1).jpeg");
 }
 
 .slider .slide-4{
-    background-image: url("/IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.47 (2).jpeg");
+    background-image: url("../IMAGE/Novas fotos/WhatsApp Image 2026-09-09 at 10.28.47 (2).jpeg");
 }
 
 .slider .slide-1,
@@ -378,7 +378,7 @@ section.slider{
 section.hoteis{
     height: 600px;
 
-    background-image: url(/IMAGE/sala-apartamento.jpeg);
+    background-image: url("../IMAGE/sala-apartamento.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
